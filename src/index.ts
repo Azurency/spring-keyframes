@@ -8,7 +8,7 @@ const defaults = {
   unit: 'px',
 }
 
-const transformMap = ['x', 'y', 'scale']
+const transformMap = ['x', 'y', 'scale', 'rotate']
 
 function roundToPrecision(num: number, precision = 2) {
   const decimalPoints = Math.pow(10, precision)
@@ -62,6 +62,8 @@ function mapTransformPropToCss(
       return `translateX(${sprungValue}${unit})`
     case 'scale':
       return `scale3d(${sprungValue}, ${sprungValue}, 1)`
+    case 'rotate':
+      return `rotate(${sprungValue}deg)`
     default:
       return `${prop}(${sprungValue})`
   }
@@ -136,6 +138,7 @@ interface Css {
   x: number
   y: number
   scale: number
+  rotate: number
   opacity: number
 }
 
@@ -146,6 +149,6 @@ interface Options {
   unit: string
 }
 
-export default function ({ from, to }: Props, options?: Partial<Options>) {
+export default function({ from, to }: Props, options?: Partial<Options>) {
   return keyframes(spring({ from, to }, options).join(''))
 }

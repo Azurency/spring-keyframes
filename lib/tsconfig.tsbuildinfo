@@ -1,0 +1,479 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
+        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1",
+        "signature": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
+        "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
+        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
+        "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
+        "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/stylis/types/index.d.ts": {
+        "version": "a6cb30cc0a1fd9dc0b6be4bfa919a35eda7d92be1835bc65a72e3d64a100203c",
+        "signature": "a6cb30cc0a1fd9dc0b6be4bfa919a35eda7d92be1835bc65a72e3d64a100203c"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts": {
+        "version": "b950589996caafaa1638f139de73257f6b47a3dc965c8c2a7e5b56138f427dfa",
+        "signature": "b950589996caafaa1638f139de73257f6b47a3dc965c8c2a7e5b56138f427dfa"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts": {
+        "version": "8b7e809ffc5c19880be3af18897d2bcda0c65028c0f36e2ca98b5b4c083f96bb",
+        "signature": "8b7e809ffc5c19880be3af18897d2bcda0c65028c0f36e2ca98b5b4c083f96bb"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts": {
+        "version": "cd4fba36eeb79a6e2ff14bbe1024cd83ae542c1bd1c2a02ed853ebc251974119",
+        "signature": "cd4fba36eeb79a6e2ff14bbe1024cd83ae542c1bd1c2a02ed853ebc251974119"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts": {
+        "version": "b36255d645e094a9c8c1cb954c5becdf04b7423edb7f49539ac123a4e2932613",
+        "signature": "b36255d645e094a9c8c1cb954c5becdf04b7423edb7f49539ac123a4e2932613"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts": {
+        "version": "bba67c6ad655bea5737646b2cd68e760ac46e64cbe660c64f12529b6459ee7a3",
+        "signature": "bba67c6ad655bea5737646b2cd68e760ac46e64cbe660c64f12529b6459ee7a3"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/sheet/types/index.d.ts": {
+        "version": "cdc2aba23199ca4ac50ea21615dbc7310adfdb6ccf1ebaece4f271b4a15579bf",
+        "signature": "cdc2aba23199ca4ac50ea21615dbc7310adfdb6ccf1ebaece4f271b4a15579bf"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts": {
+        "version": "48c35bc75d647cf43b22e61cd7b5a6277d5b317350ebb1b3c271fb4c05eb12ad",
+        "signature": "48c35bc75d647cf43b22e61cd7b5a6277d5b317350ebb1b3c271fb4c05eb12ad"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts": {
+        "version": "db401bab249fe2f5ea39d0e7969a08979361676f3978916aaceb6b2fb701c306",
+        "signature": "db401bab249fe2f5ea39d0e7969a08979361676f3978916aaceb6b2fb701c306"
+      },
+      "/users/antoine/documents/spring-keyframes/src/index.ts": {
+        "version": "130e10eac25e9c442f26d842e0670a330ed09245d09471b11d829be05fcfbdb7",
+        "signature": "5d05b98d73bec56fbd49e56d922958ed8def6edf375e5aee401805b24a3afb1a"
+      },
+      "/users/antoine/documents/spring-keyframes/src/types.d.ts": {
+        "version": "ff88326673d18483b999f4ab491345b1ff12c3253d8189aa2f1fe7e6d72cebf9",
+        "signature": "ff88326673d18483b999f4ab491345b1ff12c3253d8189aa2f1fe7e6d72cebf9"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "59706a76a49e1a9ed521cf6e1a1fd1496be0b5cddcaf6be71837cfe39017b0d6",
+        "signature": "59706a76a49e1a9ed521cf6e1a1fd1496be0b5cddcaf6be71837cfe39017b0d6"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e",
+        "signature": "b25c5f2970d06c729f464c0aeaa64b1a5b5f1355aa93554bb5f9c199b8624b1e"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "0b27e24be20d2385a284637c0b202678813e3322e9ac73016f8f10e621bca881",
+        "signature": "0b27e24be20d2385a284637c0b202678813e3322e9ac73016f8f10e621bca881"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365",
+        "signature": "56dede90729ef85351f132d66e05510851211d627e2f2c6621475d4f7938f365"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__core/index.d.ts": {
+        "version": "af523cd24a11e1feadface05a9ac4f692a99bcb65c020b96061c63ac593824ad",
+        "signature": "af523cd24a11e1feadface05a9ac4f692a99bcb65c020b96061c63ac593824ad"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/color-name/index.d.ts": {
+        "version": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e",
+        "signature": "f0cb4b3ab88193e3e51e9e2622e4c375955003f1f81239d72c5b7a95415dad3e"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee",
+        "signature": "7eb06594824ada538b1d8b48c3925a83e7db792f47a081a62cf3e5c4e23cf0ee"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/types.d.ts": {
+        "version": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7",
+        "signature": "71ba0678a3c647f5c0706ae975c031ace0d464e60f9ce56eaa7f1678d065aab7"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts": {
+        "version": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4",
+        "signature": "162c6f2951bd80ae6e16679378f382200b26bba9de8f255af3a2895fbfa670b4"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/jest/index.d.ts": {
+        "version": "9dd180752ee664a74a525a05194afdd787295e56634b8adbc8525d7c0af64e96",
+        "signature": "9dd180752ee664a74a525a05194afdd787295e56634b8adbc8525d7c0af64e96"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/parse-json/index.d.ts": {
+        "version": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b",
+        "signature": "2b8264b2fefd7367e0f20e2c04eed5d3038831fe00f5efbc110ff0131aab899b"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts": {
+        "version": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad",
+        "signature": "a7e32dcb90bf0c1b7a1e4ac89b0f7747cbcba25e7beddc1ebf17be1e161842ad"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts": {
+        "version": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314",
+        "signature": "2bbdfc5ed049f38787376bb01b7bcfe5299eac853c76c16a3e21ab0279078314"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts": {
+        "version": "c491e7f2d9261f84d648ef1096d577e4317ac3dff5df49acc055cd9196de3a88",
+        "signature": "c491e7f2d9261f84d648ef1096d577e4317ac3dff5df49acc055cd9196de3a88"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts": {
+        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6"
+      },
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts": {
+        "version": "6055ac126cf1a6c818330d033eb3e99df5070a598359fe30c430f844dafac7ce",
+        "signature": "6055ac126cf1a6c818330d033eb3e99df5070a598359fe30c430f844dafac7ce"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "lib": [
+        "lib.es2015.d.ts",
+        "lib.es2017.d.ts",
+        "lib.esnext.d.ts",
+        "lib.dom.d.ts"
+      ],
+      "jsx": 2,
+      "declaration": true,
+      "declarationMap": true,
+      "sourceMap": true,
+      "outDir": "/Users/Antoine/Documents/spring-keyframes/lib",
+      "removeComments": true,
+      "strict": true,
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "moduleResolution": 2,
+      "esModuleInterop": true,
+      "configFilePath": "/Users/Antoine/Documents/spring-keyframes/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/stylis/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/sheet/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/src/index.ts": [
+        "/users/antoine/documents/spring-keyframes/src/types.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__core/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/jest/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/stylis/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/sheet/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__core/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/types.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/jest/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/stylis/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/sheet/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/src/index.ts",
+      "/users/antoine/documents/spring-keyframes/src/types.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__core/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/color-name/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-reports/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/types.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/jest/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/parse-json/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/stack-utils/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}

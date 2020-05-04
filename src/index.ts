@@ -1,5 +1,5 @@
 import springer from 'springer'
-import { keyframes } from '@emotion/core'
+import { keyframes } from 'emotion'
 
 const defaults = {
   stiffness: 50,
@@ -146,6 +146,6 @@ interface Options {
   unit: string
 }
 
-export default function({ from, to }: Props, options?: Partial<Options>) {
+export default function ({ from, to }: Props, options?: Partial<Options>) {
   return keyframes(spring({ from, to }, options).join(''))
 }

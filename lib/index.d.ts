@@ -7,6 +7,7 @@ interface Css {
     x: number;
     y: number;
     scale: number;
+    rotate: number;
     opacity: number;
 }
 interface Options {

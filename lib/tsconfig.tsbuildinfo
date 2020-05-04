@@ -170,8 +170,8 @@
         "signature": "db401bab249fe2f5ea39d0e7969a08979361676f3978916aaceb6b2fb701c306"
       },
       "/users/antoine/documents/spring-keyframes/src/index.ts": {
-        "version": "130e10eac25e9c442f26d842e0670a330ed09245d09471b11d829be05fcfbdb7",
-        "signature": "5d05b98d73bec56fbd49e56d922958ed8def6edf375e5aee401805b24a3afb1a"
+        "version": "cdd14e24080eef4ec5d1686b20ec2f718c1e944319427a8bac77c7742c58ed9c",
+        "signature": "d39785aa8503d2b3a2c014000cd715f0694f527d1b86c3d7e4992e28bb093fba"
       },
       "/users/antoine/documents/spring-keyframes/src/types.d.ts": {
         "version": "ff88326673d18483b999f4ab491345b1ff12c3253d8189aa2f1fe7e6d72cebf9",
@@ -353,6 +353,11 @@
         "/users/antoine/documents/spring-keyframes/node_modules/@emotion/stylis/types/index.d.ts",
         "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts"
       ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts"
+      ],
       "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/@emotion/cache/types/index.d.ts",
         "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts",
@@ -361,15 +366,18 @@
       "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts"
       ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/index.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/utils/types/index.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/@emotion/serialize/types/helper.d.ts"
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
       ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts"
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
       ],
       "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__core/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts",
@@ -378,24 +386,11 @@
         "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts",
         "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts"
       ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__template/index.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
-      ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@babel/parser/typings/babel-parser.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
-      ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__traverse/index.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
-      ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts": [
-        "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts"
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
       ],
       "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-reports/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts",
-        "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
-      ],
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-report/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/@types/istanbul-lib-coverage/index.d.ts"
       ],
       "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts": [
@@ -403,6 +398,11 @@
       ],
       "/users/antoine/documents/spring-keyframes/node_modules/@types/jest/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/jest-diff/build/index.d.ts"
+      ],
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts": [
+        "/users/antoine/documents/spring-keyframes/node_modules/csstype/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/prop-types/index.d.ts",
+        "/users/antoine/documents/spring-keyframes/node_modules/@types/react/global.d.ts"
       ],
       "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts": [
         "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts"
@@ -451,7 +451,6 @@
       "/users/antoine/documents/spring-keyframes/node_modules/@emotion/sheet/types/index.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/create-emotion/types/index.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/emotion/types/index.d.ts",
-      "/users/antoine/documents/spring-keyframes/src/index.ts",
       "/users/antoine/documents/spring-keyframes/src/types.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/@babel/types/lib/index.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/@types/babel__generator/index.d.ts",
@@ -472,7 +471,8 @@
       "/users/antoine/documents/spring-keyframes/node_modules/@types/react/index.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/@types/stack-utils/index.d.ts",
       "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs-parser/index.d.ts",
-      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts"
+      "/users/antoine/documents/spring-keyframes/node_modules/@types/yargs/index.d.ts",
+      "/users/antoine/documents/spring-keyframes/src/index.ts"
     ]
   },
   "version": "3.5.3"
